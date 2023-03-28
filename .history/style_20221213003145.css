@@ -1,0 +1,9 @@
+ @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+ :root{
+    --white: #fff;
+    --light: #eeeded;
+    --orange: #FFA16C;
+ } 
+ body {
+    background-color: var(--orange);
+ }
